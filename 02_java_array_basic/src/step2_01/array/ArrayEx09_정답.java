@@ -50,6 +50,7 @@ import java.util.Scanner;
  * 
  */
 
+// 2022-01-06 14:15 ~ 14:31
 
 public class ArrayEx09_정답 {
 
